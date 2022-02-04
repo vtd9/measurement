@@ -1,5 +1,5 @@
 # measurement
-Measurement and instrumentation project on pulse photodetection and electrocardiography. 
+Measurement and instrumentation project on pulse photodetection and electrocardiography. Undergraduate course for mechanical and aerospace engineering.
 
 Submitted April 25, 2017.
 
