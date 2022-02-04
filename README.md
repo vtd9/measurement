@@ -14,3 +14,5 @@ measurements allow for the calibration of the beats-per-minute measurement. A ho
 ![alt text](https://github.com/vtd9/measurement/blob/main/Photos/IMG_1.JPG)
 
 ![alt text](https://github.com/vtd9/measurement/blob/main/Photos/IMG_9.jpg)
+
+![alt text](https://github.com/vtd9/measurement/blob/main/Photos/gui_sample.PNG)
