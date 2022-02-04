@@ -1,5 +1,7 @@
 # measurement
-Pulse photodetection and electrocardiography. Submitted April 25, 2017.
+Measurement and instrumentation project on pulse photodetection and electrocardiography. 
+
+Submitted April 25, 2017.
 
 <h1>Abstract</h1>
 
