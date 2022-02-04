@@ -23,8 +23,6 @@ function varargout = MAE3xx_GUIv3(varargin)
 % Edit the above text to modify the response to help MAE3xx_GUIv3
 
 % Last Modified by GUIDE v2.5 07-Apr-2017 14:00:17
-% Written by Vi Dang, for MAE 311
-% Group 14: Juan Ramirez Garcia, Kimille Trott
 
 % Begin initialization code - DO NOT EDIT
 gui_Singleton = 1;
